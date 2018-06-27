@@ -1,21 +1,17 @@
-Hello dear candidate!
+Hello,
 
-We have created this template to bootstrap your homework project without too much hassle. 
+This is my implementation for the booking app exercise.
+It includes:
 
-### Intro
+1. 4 Components: "App.jsx", "EmployeesList.jsx", "TopEmployees.jsx", "Hotel.jsx".
 
-This document assumes installation on an ubuntu linux or macOS based machine.
-Our IDE’s of choice is jetbrain’s Webstorm.
+2. 2 service classes "employeesService.js" which helps with retrieving the top employees from the data and "dateService.js" which helps with working with the booking dates.
 
-### Prerequisites 
+3. "apis_constants.js" which helps with retrieving the URLs for this assignment.
 
-1. You have git
-2. You have node version v8.6.0 installed
-3. You have yarn/npm installed
-1. Make sure you have access to the designs in Zeplin, if not ask us for access with the right email address.
+4. the scss files.
 
-### Installation
+NOTE: I would invest in putting more comments throughout the code but the instructions to the assignment states that there is no need for comments.
 
-1. Clone this repository
-2. Run "yarn" or "npm install" from project folder
-3. Make sure that all is working using "yarn run start" / "npm run start" 
+Thanks, 
+Eran
