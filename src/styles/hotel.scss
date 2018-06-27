@@ -1,0 +1,35 @@
+.hotel-wrapper{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 4vw;
+    border-bottom: solid 1px #374148;
+    width: 80%;
+    margin: 0 auto;
+}
+.hotel-stats{
+    display: flex;
+    flex-direction: column;
+}
+.number{
+    font-family: Lato;
+    font-size: 24px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+}
+.title{
+    font-family: Lato;
+    font-size: 12px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #72848b;   
+}
